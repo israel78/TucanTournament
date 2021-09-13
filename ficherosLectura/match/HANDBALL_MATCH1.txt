@@ -1,0 +1,5 @@
+player 1;nick1;4;Team A;G;1;21;
+player 2;nick2;8;Team A;F;15;23;
+player 3;nick3;15;Team B;F;18;23;
+player 4;nick4;16;Team B;F;10;2;
+player 5;nick5;23;Team B;F;12;25;
